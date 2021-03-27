@@ -1,0 +1,5 @@
+APP_NAME = 'page_views'
+
+DEFAULT_BROKER_HOSTNAME = 'kafka://localhost:9092'
+
+DEFAULT_TOPIC_PARTITION = 4
